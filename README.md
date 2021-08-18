@@ -14,11 +14,12 @@ Link Download : https://github.com/azarafath/VisualBasic.NET-Pendaftaran-Webinar
 
 Screnshoot : 
 <br/>
-<img height="400em" src="https://github.com/azarafath/VisualBasic.NET-Pendaftaran-Webinar-Flutter-Tips/blob/master/Tubes/Resources/image1.png?raw=true"/>
-<img height="400em" src="https://github.com/azarafath/VisualBasic.NET-Pendaftaran-Webinar-Flutter-Tips/blob/master/Tubes/Resources/image2.png?raw=true"/>
+<img height="350em" src="https://github.com/azarafath/VisualBasic.NET-Pendaftaran-Webinar-Flutter-Tips/blob/master/Tubes/Resources/image1.png?raw=true"/>
+<img height="350em" src="https://github.com/azarafath/VisualBasic.NET-Pendaftaran-Webinar-Flutter-Tips/blob/master/Tubes/Resources/image2.png?raw=true"/>
 
 
 Ingin Kembangkan Aplikasi :
+<br/>
 Silakan clone repositori ini kemudian kembangkan sesuai kebutuhan anda.
 
 
