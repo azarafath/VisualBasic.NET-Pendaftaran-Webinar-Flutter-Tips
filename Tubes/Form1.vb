@@ -27,11 +27,11 @@ Public Class Form1
         End Using
     End Function
     Public Function Base64ToImage(base64String As String) As Image
-        ' Convert Base64 String to byte[]  
+            ' Konversi tipe data Base64 ke Byte 
         Dim imageBytes As Byte() = Convert.FromBase64String(base64String)
         Dim ms As New MemoryStream(imageBytes, 0, imageBytes.Length)
 
-        ' Convert byte[] to Image  
+            ' Konversi Byte ke Image 
         ms.Write(imageBytes, 0, imageBytes.Length)
         Dim image__1 As Image = System.Drawing.Image.FromStream(ms, True)
         Return image__1
