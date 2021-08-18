@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tubes", "Tubes\Tubes.vbproj", "{61A89C92-A270-4D93-AE17-5C553543A9EF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Pendaftaran Webinar Flutter", "Pendaftaran Webinar Flutter\Pendaftaran Webinar Flutter.vdproj", "{5C030620-06EA-4FEA-A221-874904AE4631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A89C92-A270-4D93-AE17-5C553543A9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A89C92-A270-4D93-AE17-5C553543A9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A89C92-A270-4D93-AE17-5C553543A9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A89C92-A270-4D93-AE17-5C553543A9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C030620-06EA-4FEA-A221-874904AE4631}.Debug|Any CPU.ActiveCfg = Debug
+		{5C030620-06EA-4FEA-A221-874904AE4631}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63A00378-E5A4-4C9A-AC21-40EF65721E04}
+	EndGlobalSection
+EndGlobal
