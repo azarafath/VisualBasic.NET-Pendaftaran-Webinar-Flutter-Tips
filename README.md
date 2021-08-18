@@ -1,6 +1,6 @@
 # [VisualBasic.NET] Aplikasi Pendtaran Webinar Flutter Tips
 
-Aplikasi ini merupakan Tugas Akhir dari Mata Kuliah Pemograman Visual Semester II 2021
+Aplikasi Ini Merupakan Tugas Akhir dari Mata Kuliah Pemograman Visual Semester II 2021
 
 Deskripsi : Aplikasi ini merupakan aplikasi pendaftaran webinar flutter tips yang di buat untuk memudahkan operator menambahkan peserta webinar.
 
@@ -10,6 +10,16 @@ Aplikasi ini dibuat dengan :
 
 Demo Aplikasi : https://www.youtube.com/watch?v=4PxWFIWZdic
 
-Link Download : 
+Link Download : https://github.com/azarafath/VisualBasic.NET-Pendaftaran-Webinar-Flutter-Tips/releases/tag/1.0
 
 Screnshoot : 
+<br/>
+<img height="400em" src="https://github.com/azarafath/VisualBasic.NET-Pendaftaran-Webinar-Flutter-Tips/blob/master/Tubes/Resources/image1.png?raw=true"/>
+<img height="400em" src="https://github.com/azarafath/VisualBasic.NET-Pendaftaran-Webinar-Flutter-Tips/blob/master/Tubes/Resources/image2.png?raw=true"/>
+
+
+Ingin Kembangkan Aplikasi :
+Silakan clone repositori ini kemudian kembangkan sesuai kebutuhan anda.
+
+
+
