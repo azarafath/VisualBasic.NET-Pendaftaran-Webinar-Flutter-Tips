@@ -1,4 +1,4 @@
-# [VisualBasic.NET] Aplikasi Pendtaran Webinar Flutter Tips
+# [VisualBasic.NET] Aplikasi Pendaftaran Webinar Flutter Tips
 
 Aplikasi Ini Merupakan Tugas Akhir dari Mata Kuliah Pemograman Visual Semester II 2021
 
@@ -20,7 +20,9 @@ Screnshoot :
 
 Ingin Kembangkan Aplikasi :
 <br/>
-Silakan clone repositori ini kemudian kembangkan sesuai kebutuhan anda.
+Silakan fork repositori ini kemudian kembangkan sesuai kebutuhan anda.
+
+Jangan lupa klik Star :)
 
 
 
